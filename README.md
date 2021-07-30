@@ -1,4 +1,4 @@
-## Hello 
+## Yo 🖖
 
 I solve programming challenges and also data science challenges in Kaggle and interview coding questions.
 Most of the problems I solve using Java and Python , sometimes also in Kotlin(for some codeforces rounds).
